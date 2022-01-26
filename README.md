@@ -3,7 +3,7 @@ Welcome to my Github profile!
 - I’m currently learning Python and Django
 
 <div>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="20" height="100"> 
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="50" height="20"> 
  	
 </div> 
 
