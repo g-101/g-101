@@ -1,5 +1,4 @@
 ### Olá! 👋
-- Estudando Desenvolvimento Web
 - Estudando Python e Django
 
 <!--
