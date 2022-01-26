@@ -18,7 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-<div style="display: inline_block"><br>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img	align="center" alt="g-python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
- </div>
+
