@@ -3,9 +3,10 @@ Welcome to my Github profile!
 - I’m currently learning Python and Django
 
 <div>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="80" height="40"> 
- 	
-</div> 
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" height="40"> 
+   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="100" height="40"> 
+   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" width="100" height="40"> 
+ </div> 
 
 <!--
 **g101x/g101x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
