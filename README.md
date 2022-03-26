@@ -1,13 +1,17 @@
-### Hello World! 👋
-Welcome to my Github profile!
-- I’m currently learning JS/Node
+# Hello World! 👋   
+I’m Genesis, from Brazil!
 
-<div>
-   
-   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" width="100" height="30"> 
-   
- </div> 
-
+### A little more about me:
+```javascript
+   const genesis = {
+     pronouns: "she" | "her",
+     code: ["Javascript", "Python"],
+     tools: ["Node.js", "Express.js", "MongoDB", "Vscode", "Linux Mint"],
+     currentFocus: "Backend Development",
+   }
+```
+#### Contact:<br/>[![Linkedin: genesislima101](https://img.shields.io/badge/genesislima101-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/genesislima101/)](https://www.linkedin.com/in/genesislima101/)<br/>
+#### My Blog:<br/>[![Dev.to: g101](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/g101)](https://dev.to/g101)<br/>
 <!--
 **g101x/g101x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
