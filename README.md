@@ -6,7 +6,7 @@ I’m Genesis, from Brazil!
    const genesis = {
      pronouns: "she" | "her",
      code: ["Javascript", "Python"],
-     tools: ["Node.js", "Express.js", "MongoDB", "Vscode", "Linux Mint"],
+     tools: ["Node.js", "Express.js", "Vscode", "Linux Mint"],
      currentFocus: "Backend Development",
    }
 ```
