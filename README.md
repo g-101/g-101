@@ -4,10 +4,10 @@ I’m Genesis, from Brazil!
 ### A little more about me:
 ```javascript
    const genesis = {
-     pronouns: "she" | "her",
+     pronouns: "She" | "Her",
      code: ["Javascript", "Python"],
-     tools: ["Node.js", "Express.js", "Vscode", "Linux Mint"],
-     currentFocus: "Backend Development",
+     tools: ["Express.js", "Git", "Linux Mint", "Node.js", "Vscode"],
+     currentFocus: "Web Development",
    }
 ```
 #### Contact:<br/>[![Linkedin: genesislima101](https://img.shields.io/badge/genesislima101-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/genesislima101/)](https://www.linkedin.com/in/genesislima101/)<br/>
