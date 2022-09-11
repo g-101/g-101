@@ -1,18 +1,28 @@
-# Hello World! 👋   
-Olá, eu me chamo Genesis!
-- Em busca de oportunidades como web developer.
-- Estudando sobre Javascript, HTML, CSS, Node
-- Em constante aprendizado e em busca de conhecimento.
 
-### Contato: 
-<div style="display: inline_block">
-  <a target="_blank" href="https://www.linkedin.com/in/genesislima101/"><img target="_blank" alt="genesis linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<h1 align="center"> Genesis Lima </h1>
+<div align="center" style="background:yellow">
+  <a href="https://dev.to/g101" target="_blank">
+    <img align="center" height="25em"  src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/>
+  </a>
+  <a href="https://www.linkedin.com/in/genesislima101/" target="_blank">
+    <img align="center" height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
 </div> 
 
-#### Meu Blog: 
-<div style="display: inline_block">
-  <a target="_blank" href="https://dev.to/g101"><img target="_blank" alt="genesis blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-</div> 
+<br>
+
+- Estudando sobre desenvolvimento web
+- Tenho como objetivo contribuir com o open source e resolver problemas
+- Sempre estou disposta a aprender mais
+
+<div align="right">
+     <a href="https://github.com/g-101">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&theme=radical"
+        alt="Linguagens mais usadas" align="right-top">
+    </a>
+</div>
+
+
 
 
 
