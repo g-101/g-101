@@ -17,7 +17,7 @@
 
 <div align="right">
      <a href="https://github.com/g-101">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biantris&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&theme=radical"
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-101&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&theme=radical"
         alt="Linguagens mais usadas" align="right-top">
     </a>
 </div>
