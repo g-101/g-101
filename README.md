@@ -1,7 +1,7 @@
 # Hello World! 👋   
 Olá, eu me chamo Genesis!
 - Em busca de oportunidades como web developer.
-- Estudando sobre Javascript, HTML, CSS, React, Node
+- Estudando sobre Javascript, HTML, CSS, Node
 - Em constante aprendizado e em busca de conhecimento.
 
 ### Contato: 
