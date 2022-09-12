@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [dev.to/g101](https://dev.to/g101)
 
-- ⚡ Fun fact **I'm Mass Effect fan**
+- ⚡ Fun fact **I'm Sci-fi fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
