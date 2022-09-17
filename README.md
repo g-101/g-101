@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Brazil</h3><br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-101&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="g-101" /></p>
 
-- 🔭 I’m currently working on [EasyMotel](https://github.com/g-101/GP-01-PI-Ifood)
+- 🔭 I’m currently working on [EasyMotel](https://github.com/danimichelydev/GP-01-PI-Ifood)
 
 - 🌱 I’m currently learning **CSS, Node**
 
