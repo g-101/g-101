@@ -8,11 +8,8 @@
 
 - 📝 I regularly write articles on [dev.to/g101](https://dev.to/g101)
 
-- ⚡ Fun fact **I'm Sci-fi fan**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/g101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/genesislima101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="genesislima101" height="30" width="40" /></a>
 </p>
 
