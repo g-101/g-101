@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 35%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="hello world" align="center" style="width: 35%" />
 </div>  
 <h3 align="center">I'm Genesis, a passionate web developer from Brazil</h3><br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-101&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="g-101" /></p>
