@@ -1,10 +1,13 @@
-<h1 align="center">Hello World 👋, I'm Genesis</h1>
-<h3 align="center">A passionate web developer from Brazil</h3><br>
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
+</div>  
+<h3 align="center">I'm Genesis, a passionate web developer from Brazil</h3><br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-101&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="g-101" /></p>
 
-- 🌱 I’m currently learning **CSS, React**
+- 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [dev.to/g101](https://dev.to/g101)
+- 📝 I regularly write articles on <a href="https://dev.to/g101" target="blank">dev.to/g101</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,6 +15,7 @@
 </p>
 
 <!--
+<h1 align="center">Hello World 👋, I'm Genesis</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
