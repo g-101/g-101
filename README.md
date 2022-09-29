@@ -5,7 +5,7 @@
 <h3 align="center">I'm Genesis, a passionate web developer from Brazil</h3><br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-101&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="g-101" /></p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Node**
 
 - 📝 I regularly write articles on <a href="https://dev.to/g101" target="_blank">dev.to/g101</a>
 
