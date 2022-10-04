@@ -1,18 +1,16 @@
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="hello world" align="center" style="width: 45%" />
-</div>  
-<h3 align="center">I'm Genesis, a passionate web developer from Brazil</h3><br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-101&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="g-101" /></p>
-
-- 🌱 I’m currently learning **React** and **Node**
-
-- 📝 I regularly write articles on <a href="https://dev.to/g101" target="_blank">dev.to/g101</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/genesislima101" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="genesislima101" height="30" width="40" /></a>
+<h1 align="left">Hello World 👋</h1>
+<p align="left" width="30%">
+  Hi my name is Genesis Lima (g), a passionate web developer from Brazil.<br/> I like practice and sharing my knowledge with other people through blog posts and open source,<br/> always trying to add value to the tech community.
 </p>
+<h3 display="inline" align="left">Connect with me:</h3> <a href="https://linkedin.com/in/genesislima101" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="genesislima101" height="30" width="40" /></a><br/>
+
+<br/><div align="leftt"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-101" alt="g-101 top languages" /></div>
+
+
+
+
+
 
 <!--
 <h1 align="center">Hello World 👋, I'm Genesis</h1>
