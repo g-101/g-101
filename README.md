@@ -1,11 +1,19 @@
 
-<h1 align="left">Hello World 👋</h1>
-<p align="left" width="30%">
-  Hi my name is Genesis Lima (g), a passionate web developer from Brazil.<br/> I like practice and sharing my knowledge with other people through blog posts and open source,<br/> always trying to add value to the tech community.
-</p>
-<h3 display="inline" align="left">Connect with me:</h3> <a href="https://linkedin.com/in/genesislima101" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="genesislima101" height="30" width="40" /></a><br/>
+# Hello World 👋
 
-<br/><div align="leftt"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-101" alt="g-101 top languages" /></div>
+## 💫 About Me:
+Hi my name is Genesis Lima (g), a passionate web developer from Brazil.<br>I like practice and sharing my knowledge with other people through blog posts and open source,<br>always trying to add value to the tech community.
+
+
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/genesislima101) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=g-101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=g-101&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
