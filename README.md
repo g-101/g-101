@@ -9,13 +9,8 @@ Hi my name is Genesis Lima (g), a passionate web developer from Brazil.<br>I lik
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/genesislima101) 
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/g101) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=g-101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=g-101&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=g-101&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 
@@ -23,6 +18,7 @@ Hi my name is Genesis Lima (g), a passionate web developer from Brazil.<br>I lik
 
 <!--
 <h1 align="center">Hello World 👋, I'm Genesis</h1>
+![](https://github-readme-stats.vercel.app/api?username=g-101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
