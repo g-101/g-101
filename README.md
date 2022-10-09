@@ -2,7 +2,7 @@
 # Hello World 👋
 
 ## 💫 About Me:
-Hi my name is Genesis Lima (g), a passionate web developer from Brazil.<br>I like practice and sharing my knowledge with other people through blog posts and open source,<br>always trying to add value to the tech community.
+Hi my name is Genesis Lima (g), a passionate web developer from Brazil.<br>I like practice and sharing my knowledge with other people through blog posts and open source.
 
 
 ### 🌐 Socials:
