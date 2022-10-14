@@ -8,8 +8,7 @@ Hi my name is Genesis Lima (g), a passionate web developer from Brazil.<br>I lik
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/genesislima101) 
-[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/g101) 
-# 📊 GitHub Stats:
+[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/g101) <br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
