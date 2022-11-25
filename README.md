@@ -3,7 +3,7 @@
 [![@ge101's Holopin board](https://holopin.me/ge101)](https://holopin.io/@ge101)
 
 ## 💫 About Me:
-Hi my name is Genesis Lima (g), a passionate web developer from Brazil.<br>I like practice and sharing my knowledge with other people through blog posts and open source.
+Hi my name is Genesis, a passionate web developer.<br>I like practice and sharing my knowledge with other people through blog posts and open source.
 
 
 ### 🌐 Socials:
