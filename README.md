@@ -3,7 +3,8 @@
 [![@ge101's Holopin board](https://holopin.me/ge101)](https://holopin.io/@ge101)
 
 ## 💫 About Me:
-Hi my name is Genesis, a passionate web developer.<br>I like practice and sharing my knowledge with other people through blog posts and open source.
+Olá, meu nome é Genesis, sou apaixonada por programação. Gosto de praticar e compartilhar meus conhecimentos em comunidades de desenvolvedores ou através de posts em blog.
+Meus hobbies incluem video-games video_game, ler :books: e cuidar do meu gato Maru.
 
 
 ### 🌐 Socials:
