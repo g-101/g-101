@@ -3,7 +3,7 @@
 [![@ge101's Holopin board](https://holopin.me/ge101)](https://holopin.io/@ge101)
 
 ## :octocat: Sobre mim:
-Olá, meu nome é Genesis, sou apaixonada por programação. Gosto de praticar e compartilhar meus conhecimentos em comunidades de desenvolvedores ou através de posts em blog.
+Olá, meu nome é Genesis, sou apaixonada por programação. <br/>Gosto de praticar e compartilhar meus conhecimentos em comunidades de desenvolvedores ou através de posts em blog. <br/>
 Meus hobbies incluem video-games :video_game:, ler :books: e cuidar do meu gato Maru.
 
 
