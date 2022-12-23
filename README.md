@@ -4,7 +4,7 @@
 
 ## :octocat: Sobre mim
 Olá, meu nome é Genesis, sou apaixonada por programação. <br/>Gosto de praticar e compartilhar meus conhecimentos em comunidades de desenvolvedores ou através de posts em blog. <br/>
-Meus hobbies incluem video-games :video_game:, ler :books: e cuidar do meu gato Maru.
+Meus hobbies incluem video-games :video_game:, ler :books: e montar quebra-cabeças.
 
 
 ### 🌐 Socials:
