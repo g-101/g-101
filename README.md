@@ -3,12 +3,11 @@
 [![@ge101's Holopin board](https://holopin.me/ge101)](https://holopin.io/@ge101)
 
 ## :octocat: Sobre mim
-Olá, meu nome é Genesis, sou apaixonada por programação. <br/>Gosto de praticar e compartilhar meus conhecimentos em comunidades de desenvolvedores ou através de posts em blog. <br/>
-Meus hobbies incluem video-games :video_game:, ler :books: e montar quebra-cabeças.
+<p>Olá, meu nome é Genesis, sou apaixonada por programação.</p>
+<p>Gosto de praticar e compartilhar meus conhecimentos em comunidades de desenvolvedores ou através de posts em blog.<br/>
+Meus hobbies incluem video-games :video_game:, ler :books: e montar quebra-cabeças.</p>
 
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/genesislima101) 
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/g101) <br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
