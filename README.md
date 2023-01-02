@@ -4,8 +4,7 @@
 
 ## :octocat: Sobre mim
 <p>Olá, meu nome é Genesis, sou apaixonada por programação.</p>
-<p>Gosto de praticar e compartilhar meus conhecimentos em comunidades de desenvolvedores ou através de posts em blog.<br/>
-Meus hobbies incluem video-games :video_game:, ler :books: e montar quebra-cabeças.</p>
+<p>Gosto de praticar e compartilhar meus conhecimentos em comunidades de desenvolvedores ou através de posts em blog.</p>
 
 
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/g101) <br/>
