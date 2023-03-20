@@ -2,11 +2,6 @@
 
 [![@ge101's Holopin board](https://holopin.me/ge101)](https://holopin.io/@ge101)
 
-## Sobre mim
-
-<p>Olá! meu nome é Genesis e sou apaixonada por programação.</p>
-
-
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
