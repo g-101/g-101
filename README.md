@@ -1,6 +1,7 @@
 # Hello World 👋
 
 [![@ge101's Holopin board](https://holopin.me/ge101)](https://holopin.io/@ge101)
+**I'm 100% commited to learning Ruby, no matter what it takes. I'll become a professional Ruby developer.**
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
