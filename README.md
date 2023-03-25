@@ -1,6 +1,6 @@
 # Hello World 👋
 
-[![@ge101's Holopin board](https://holopin.me/ge101)](https://holopin.io/@ge101)
+
 **I'm 100% commited to learning Ruby, no matter what it takes. I'll become a professional Ruby developer.**
 
 
