@@ -1,6 +1,6 @@
 # Hello World 👋
 
-- Contribuindo atualmente no [pyne2023](https://github.com/pythonNordeste/pyne2023 "Landing page Python Nordeste 2023").
+- Contribuindo no [pyne2023](https://github.com/pythonNordeste/pyne2023 "Website Python Nordeste 2023").
 - Fullstack developer em um projeto em fase de MVP.
 
 
