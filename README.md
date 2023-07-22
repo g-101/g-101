@@ -1,6 +1,5 @@
 # Hello World 👋
 
-- Contribuindo no [pyne2023](https://github.com/pythonNordeste/pyne2023 "Website Python Nordeste 2023").
 
 
 
